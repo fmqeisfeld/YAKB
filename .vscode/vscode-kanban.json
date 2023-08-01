@@ -1,0 +1,40 @@
+{
+  "todo": [
+    {
+      "assignedTo": {
+        "name": "Frank Zack"
+      },
+      "creation_time": "2022-03-13T13:28:19.558Z",
+      "id": "3",
+      "references": [],
+      "title": "backend/frontend edit card"
+    },
+    {
+      "assignedTo": {
+        "name": "Frank Zack"
+      },
+      "creation_time": "2022-03-13T13:27:58.897Z",
+      "id": "2",
+      "references": [],
+      "title": "backend: del card"
+    }
+  ],
+  "in-progress": [],
+  "testing": [],
+  "done": [
+    {
+      "assignedTo": {
+        "name": "Frank Zack"
+      },
+      "creation_time": "2022-03-12T14:48:03.728Z",
+      "description": {
+        "content": "moveItem in board.component fails: item has no \"data\"-object",
+        "mime": "text/markdown"
+      },
+      "id": "1",
+      "references": [],
+      "title": "moveItem bug",
+      "type": "bug"
+    }
+  ]
+}
