@@ -8,7 +8,7 @@ services:
     volumes:
       - ./services/backend/src:/app
     command: uvicorn app:app --reload --host 0.0.0.0 --port 5000
-    container_name: nokanban_backend
+    container_name: yakb_backend
 
   frontend:
     build: ./services/frontend
@@ -16,4 +16,4 @@ services:
       - './services/frontend/src:/app/src'
     ports:
       - 4200:4200
-    container_name: nokanban_frontend
+    container_name: yakb_frontend
