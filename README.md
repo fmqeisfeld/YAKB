@@ -7,7 +7,7 @@ Originally, this project was conceived as a personal learning endeavor to gain f
 
 ## Main Features
 
-YAKB boasts a range of powerful features to enhance your productivity and project management experience:
+YAKB boasts a range of features to enhance your productivity:
 
 - **Drag'n Drop Mechanics:** Effortlessly organize your tasks and cards by simply dragging and dropping them within the interface.
 - **Multiple Boards:** Create and manage multiple boards, enabling you to effectively categorize and handle various projects or workflows.
@@ -32,5 +32,3 @@ Shell
 4. Once the setup is complete, access the frontend at [http://localhost:4200](http://localhost:4200) in your web browser.
 5. To get started, click on _Sign-up_ and provide your email and a secure password.
 6. After logging in, you will be redirected to your personalized dashboard at [http://localhost:4200/profile](http://localhost:4200/profile).
-
-Enhance your project management experience with YAKB today! Simplify task organization, track progress effortlessly, and enjoy the benefits of efficient Kanban board management. Should you encounter any issues or have feedback to share, feel free to get in touch via the repository's issue tracker. Happy tasking!
