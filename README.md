@@ -3,7 +3,7 @@ YAKB is a user-friendly Kanban Board WebApp based on the [drag-drop module](http
 
 ## Purpose and Evolution
 
-Originally, this project was conceived as a personal learning endeavor to gain familiarity with the basic mechanics of the Angular framework. However, as time went on, it evolved into a robust Kanban Board with additional features that set it apart from other apps in this category. Notably, YAKB includes a progress bar, providing a visual representation of your task completion status. Furthermore, it offers direct access to the underlying database, empowering users to derive insightful statistics based on the content and timestamps related to card creation and assignment.
+Originally, this project was conceived as a personal learning endeavor to gain familiarity with the basic mechanics of the Angular framework. Notably, YAKB includes a progress bar, providing a visual representation of your task completion status. Furthermore, it offers direct access to the underlying database, empowering users to derive insightful statistics based on the content and timestamps related to card creation and assignment.
 
 ## Main Features
 
